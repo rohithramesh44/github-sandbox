@@ -1,12 +1,13 @@
 // import UseReffExampleOne from "./components/UseReffExampleOne";
-import UseRefExample3 from "./components/UseRefExample3";
+// import UseRefExample3 from "./components/UseRefExample3";
+import UseMemoExample from "./components/UseMemoExample";
 
 function App() {
   return (
     <div className="container mt-5">
       {/* <UseReffExampleOne /> */}
       {/* <UseRefExample2 /> */}
-      <UseRefExample3 />
+      <UseMemoExample />
     </div>
   );
 }
